@@ -1,3 +1,8 @@
-1.Получаем и выводим весь список контактов в виде таблицы (console.table).
+1. Получаем и выводим весь список контактов в виде таблицы (console.table).
 ![list](./img/1.png)
-2. Start development mode by running `npm start` command.
+2. Получаем контакт по id.
+![list](./img/2.png)
+3. Добавялем контакт.
+![list](./img/3.png)
+4. Удаляем контакт.
+![list](./img/4.png)
